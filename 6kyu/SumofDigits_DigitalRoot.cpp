@@ -3,6 +3,8 @@
 //This kata was pretty easy to solve, however, the intersting part of this is the fact you have to take advantage of casting char into int.
 //When casting it uses the Ascii values which you can work around by subtracting '0'. This allows you to turn the char into an actual int.
 
+//I would rate my performance as 5/10 and the kata 9/10.
+
 #include <string>
 
 int digital_root(int n)
